@@ -2,7 +2,7 @@
 
 A SQL-only college database project for managing departments, students, faculty, courses, course offerings, enrollments, attendance, and marks. It includes the schema, a small sample dataset, and SQL answers for academic reporting questions 13–34.
 
-![Entity relationship diagram](docs/WhatsApp Image 2026-10-08 at 3.10.50 PM.jpeg)
+![Entity relationship diagram](WhatsApp Image 2026-10-08 at 3.10.50 PM.jpeg)
 
 ## Project contents
 
