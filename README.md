@@ -91,19 +91,6 @@ Some question text refers to values not present in the sample rows. For example,
 - The schema's `course` table is singular, and the student year column is named `year_`.
 - This repository contains database scripts only; it does not include a web application, API, or user interface.
 
-## Upload to GitHub
 
-Create an empty repository on GitHub, then run these commands from this project directory. Replace the remote URL with your repository URL:
-
-```bash
-git init
-git add .
-git commit -m "Add student academic management database project"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repository>.git
-git push -u origin main
-```
-
-## License
 
 No license is included. Add a `LICENSE` file before publishing if you want to grant others specific rights to reuse or modify the project.
